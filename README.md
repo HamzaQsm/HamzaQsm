@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HamzaQsm
+- 👋 Hi, I’m Hamza
 -  I’m interested in web sites programmation
 -  I’m student of computer sience and web developpement 
 
